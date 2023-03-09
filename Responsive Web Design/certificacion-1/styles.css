@@ -1,0 +1,56 @@
+body{
+    background-image:url(https://media.ambito.com/p/009d4eb7e3fdab4ef7ed901fc71cdaac/adjuntos/239/imagenes/039/765/0039765427/1200x675/smart/galaxia_mas_cercana_al_bigbang_0jpg.jpg);
+    margin:2em auto;
+    padding: 20px;
+    display:block;
+    font-family:sans-serif;
+    color:rgb(255,255,255);
+    font-size:1.1em;
+  }
+  fieldset{
+    padding:2rem;
+    background-color: rgb(51,51,51);
+    border-color:rgb(51,51,51);
+    width:60%;
+    margin:auto;
+    border:none;
+  }
+  h1,p{
+    text-align:center;
+  }
+  label{
+    display:block;
+  }
+  input,textarea,select{
+  background-color:black;
+  color:white;
+  margin:10px 0 0;
+  }
+  input[type="submit"]{
+    padding:1px;
+    margin:auto;
+    display:block;
+    height:2em;
+    width:60%;
+    min-width:300px;
+    border-color:grey;
+    font-size:1.1rem;
+  }
+  textarea{
+    margin:1em auto;
+    display:block;
+    width:70%;
+    min-width:300px;
+  }
+  select,label{
+    display:block;
+    margin:1em auto;
+    width:60%;
+    min-width:300px;
+  }
+  .inline{
+    width:unset;
+    margin:0 0 1em 0;
+    vertical-align: middle;
+  }
+  
