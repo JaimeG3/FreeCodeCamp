@@ -20,12 +20,14 @@ body{
   }
   label{
     display:block;
+    border:none;
   }
   input,textarea,select{
   background-color:black;
   color:white;
   margin:10px 0 0;
   width:100%
+
   }
   input[type="submit"]{
     padding:1px;
